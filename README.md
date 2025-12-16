@@ -36,14 +36,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-Rashmini-Kavindya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?Rashmini-Kavindya=your-github-Rashmini-Kavindya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?Rashmini-Kavindya=your-github-Rashmini-Kavindya&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-Rashmini-Kavindya&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 ---
