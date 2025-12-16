@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/rashmini-k/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="rashminik727@gmail.com">
+  <a href="mailto:rashminik727@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
   <a href="https://rashmini-kavindya.vercel.app/" target="_blank">
@@ -36,14 +36,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Rashmini-Kavindya=your-github-Rashmini-Kavindya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Rashmini-Kavindya=your-github-Rashmini-Kavindya&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rashmini-Kavindya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmini-Kavindya&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-Rashmini-Kavindya&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashmini-Kavindya&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 ---
