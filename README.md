@@ -1,120 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=Rashmini%20Kavindya&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+# Rashmini Kavindya
+
+Full Stack Developer | IT Undergraduate @ SLIIT
 
 </div>
 
-<h2 align="center">
-Hi 👋 I'm Rashmini Kavindya
-</h2>
+---
 
-<h3 align="center">
-IT Undergraduate @ SLIIT | Full Stack Developer | UI/UX Enthusiast
-</h3>
+## About Me
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Mobile+App+Enthusiast;Always+learning+new+technologies" />
-</p>
+I am an Information Technology undergraduate at the Sri Lanka Institute of Information Technology (SLIIT) with a strong interest in building modern web and mobile applications.
+
+I enjoy working across the full stack and transforming ideas into clean, user-friendly solutions. Currently I am expanding my knowledge in scalable architectures and modern development practices.
+
+* 🎓 IT Undergraduate – SLIIT
+* 💻 Interested in Full Stack Development
+* 🚀 Currently working on **Care Connect**
+* 🌱 Learning **Microservices Architecture & Cloud Technologies**
+* 🎨 Interested in **UI/UX and modern interface design**
 
 ---
 
-# 👩‍💻 About Me
+## Tech Stack
 
-💡 Passionate about building **modern web and mobile applications**
+**Frontend**
 
-🎓 IT Undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**
+React
+Tailwind CSS
+HTML5
+CSS3
 
-🚀 Currently building **Care Connect**
+**Backend**
 
-🌱 Learning **Microservices Architecture & Cloud Technologies**
+Node.js
+Express.js
 
-🎨 Interested in **UI/UX design and clean user experiences**
+**Database**
 
----
+MongoDB
+MySQL
 
-# 🌐 Connect with Me
+**Programming Languages**
 
-<p align="center">
+Java
+Kotlin
+JavaScript
 
-<a href="https://www.linkedin.com/in/rashmini-k/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+**Tools & Technologies**
 
-<a href="mailto:rashminik727@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://rashmini-kavindya.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
-
-</p>
-
----
-
-# 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,kotlin,mysql,docker,tailwind,git,github,vscode" />
-
-</p>
+Git
+GitHub
+Docker
+VS Code
 
 ---
 
-# 📊 GitHub Analytics
+## Projects
 
-<p align="center">
+### Care Connect
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rashmini-Kavindya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+A platform designed to connect users with care services.
+Focused on building a scalable and user-friendly web application using modern technologies.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmini-Kavindya&layout=compact&theme=tokyonight&hide_border=true"/>
+### Lost and Found Management System
 
-</p>
+A system that allows users to report lost items and manage claims efficiently.
 
----
+### Central Pet Care System
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashmini-Kavindya&theme=tokyonight&hide_border=true"/>
-
-</p>
+A university group project that manages pet care services and appointments.
 
 ---
 
-# 🏆 GitHub Achievements
+## GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rashmini-Kavindya&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rashmini-Kavindya&show_icons=true&theme=default" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmini-Kavindya&layout=compact&theme=default" height="170"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## Contact
 
-🔹 **Care Connect**  
-A platform designed to connect people with care services using modern web technologies.
+LinkedIn
+https://www.linkedin.com/in/rashmini-k/
 
-🔹 **Lost & Found Management System**  
-A system to report and claim lost items efficiently.
+Email
+[rashminik727@gmail.com](mailto:rashminik727@gmail.com)
 
-🔹 **Central Pet Care System**  
-A pet care management platform developed as a university project.
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Rashmini-Kavindya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-
-</p>
+Portfolio
+https://rashmini-kavindya.vercel.app/
 
 ---
 
 <p align="center">
-⭐ From <b>Rashmini Kavindya</b>
+Open to collaboration and learning opportunities.
 </p>
