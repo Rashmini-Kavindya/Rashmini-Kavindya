@@ -4,123 +4,49 @@
 
 </div>
 
-<h1 align="center">Hi 👋 I'm Rashmini Kavindya</h1>
+<h1 align="center">Hi there, I'm Rashmini Kavindya 👋</h1>
+<h3 align="center">🚀 IT Undergraduate @SLIIT | Full Stack Developer | Mobile App Enthusiast | UI/UX Enthusiast </h3>
 
-<h3 align="center">
-Full Stack Developer • IT Undergraduate @ SLIIT • UI/UX Enthusiast
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=25&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Mobile+App+Developer;UI%2FUX+Lover;Always+Learning+New+Technologies"/>
-</p>
-
----
-
-## 🚀 About Me
-
-💻 Passionate developer from **Sri Lanka**
-
-🎓 IT Undergraduate at **SLIIT**
-
-🚀 Currently building **Care Connect**
-
-🌱 Exploring **Microservices Architecture**
-
-🎨 Interested in **UI/UX Design & Modern Web Development**
-
----
-
-## 🌐 Connect With Me
+<br/>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/rashmini-k/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:rashminik727@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-<a href="https://rashmini-kavindya.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" height="50"/>
-</a>
-
+ I am a passionate developer from Sri Lanka, currently building <b>Care Connect</b> and exploring Microservices architecture. I love turning complex problems into simple, beautiful designs.
 </p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rashmini-k/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:rashminik727@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://rashmini-kavindya.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr/>
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,kotlin,mysql,docker,tailwind,git,github,vscode" />
+</div>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rashmini-Kavindya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmini-Kavindya&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashmini-Kavindya&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
 
 ---
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,kotlin,mysql,docker,tailwind,git,github,vscode&perline=6"/>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rashmini-Kavindya&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmini-Kavindya&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashmini-Kavindya&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rashmini-Kavindya&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-## ✨ Featured Projects
-
-🚀 **Care Connect**
-A platform connecting people with care services using modern web technologies.
-
-📦 **Lost & Found Management System**
-A system for reporting and claiming lost items efficiently.
-
-🐾 **Central Pet Care System**
-A pet care management platform developed as a university project.
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Rashmini-Kavindya&label=Profile%20Views&color=blueviolet&style=flat"/>
-
-</p>
-
-<p align="center">
-✨ Building things for the web
-</p>
+<p align="center">Simply innovative. Check out my repositories below! 👇</p>
