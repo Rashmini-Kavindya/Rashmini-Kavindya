@@ -1,50 +1,120 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20I'm%20Rashmini!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20IT%20Undergraduate&descAlignY=51&descAlign=62" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=Rashmini%20Kavindya&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+
 </div>
 
-<h1 align="center">Hi there, I'm Rashmini Kavindya 👋</h1>
-<h3 align="center">🚀 IT Undergraduate @SLIIT | Full Stack Developer | Mobile App Enthusiast | UI/UX Enthusiast </h3>
+<h2 align="center">
+Hi 👋 I'm Rashmini Kavindya
+</h2>
 
-<br/>
+<h3 align="center">
+IT Undergraduate @ SLIIT | Full Stack Developer | UI/UX Enthusiast
+</h3>
 
 <p align="center">
- I am a passionate developer from Sri Lanka, currently building <b>Care Connect</b> and exploring Microservices architecture. I love turning complex problems into simple, beautiful designs.
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Mobile+App+Enthusiast;Always+learning+new+technologies" />
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rashmini-k/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:rashminik727@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://rashmini-kavindya.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
+---
 
-<hr/>
+# 👩‍💻 About Me
 
-### 🛠️ Languages and Tools
+💡 Passionate about building **modern web and mobile applications**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,kotlin,mysql,docker,tailwind,git,github,vscode" />
-</div>
+🎓 IT Undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**
 
-<br/>
+🚀 Currently building **Care Connect**
 
-### 📊 GitHub Stats
+🌱 Learning **Microservices Architecture & Cloud Technologies**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashmini-Kavindya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmini-Kavindya&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashmini-Kavindya&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
+🎨 Interested in **UI/UX design and clean user experiences**
 
 ---
-<p align="center">Simply innovative. Check out my repositories below! 👇</p>
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rashmini-k/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:rashminik727@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://rashmini-kavindya.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,kotlin,mysql,docker,tailwind,git,github,vscode" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rashmini-Kavindya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmini-Kavindya&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashmini-Kavindya&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rashmini-Kavindya&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+🔹 **Care Connect**  
+A platform designed to connect people with care services using modern web technologies.
+
+🔹 **Lost & Found Management System**  
+A system to report and claim lost items efficiently.
+
+🔹 **Central Pet Care System**  
+A pet care management platform developed as a university project.
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Rashmini-Kavindya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+
+</p>
+
+---
+
+<p align="center">
+⭐ From <b>Rashmini Kavindya</b>
+</p>
