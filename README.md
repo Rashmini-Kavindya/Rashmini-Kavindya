@@ -107,8 +107,6 @@ const rashmini = {
 
 <div align="center">
 
-**⚡ Profile views**
-
 ![](https://komarev.com/ghpvc/?username=Rashmini-Kavindya&color=58a6ff&style=flat-square&label=Profile+Views)
 
 *"Simply innovative — check out my repositories below 👇"*
