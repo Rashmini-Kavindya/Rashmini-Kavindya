@@ -9,20 +9,21 @@
 <img src="https://img.shields.io/badge/BSc%20(Hons)%20ICT-Specialized%20in%20IT-6a0dad?style=flat-square&labelColor=1a0033"/>
 <img src="https://img.shields.io/badge/SLIIT-3rd%20Year%20Undergraduate-4b0082?style=flat-square&labelColor=1a0033"/>
 <img src="https://img.shields.io/badge/HND%20in%20IT-Completed-8a2be2?style=flat-square&labelColor=1a0033"/>
-<img src="https://img.shields.io/badge/📍-Attidiya,%20Sri%20Lanka-6a0dad?style=flat-square&labelColor=1a0033"/>
+<img src="https://img.shields.io/badge/📍-Colombo,%20Sri%20Lanka-6a0dad?style=flat-square&labelColor=1a0033"/>
+<img src="https://img.shields.io/badge/GitHub-PRO-a78bfa?style=flat-square&labelColor=1a0033"/>
 
 <br/><br/>
 
 <a href="https://rashmini-kavindya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-8a2be2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0033"/></a>
 <a href="https://www.linkedin.com/in/rashmini-k"><img src="https://img.shields.io/badge/LinkedIn-Connect-4b0082?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033"/></a>
 <a href="mailto:rashminik727@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-6a0dad?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0033"/></a>
-<a href="https://github.com/rashmini-k"><img src="https://img.shields.io/badge/GitHub-Follow-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0033"/></a>
+<a href="https://github.com/Rashmini-Kavindya"><img src="https://img.shields.io/badge/GitHub-Follow-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0033"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rashmini-k&label=Profile%20Views&color=6a0dad&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/rashmini-k?label=Followers&style=flat-square&color=4b0082&labelColor=1a0033"/>
-<img src="https://img.shields.io/github/stars/rashmini-k?label=Stars&style=flat-square&color=8a2be2&labelColor=1a0033"/>
+<img src="https://komarev.com/ghpvc/?username=Rashmini-Kavindya&label=Profile%20Views&color=6a0dad&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/Rashmini-Kavindya?label=Followers&style=flat-square&color=4b0082&labelColor=1a0033"/>
+<img src="https://img.shields.io/github/stars/Rashmini-Kavindya?label=Stars&style=flat-square&color=8a2be2&labelColor=1a0033"/>
 
 </div>
 
@@ -100,6 +101,8 @@ Designing a remote caregiving solution enabling real-time monitoring of elderly 
 
 Currently implementing the core authentication system and payment integration while building out the microservices architecture and CI/CD pipeline.
 
+**Repository:** *Private — in active development*
+
 </details>
 
 <details>
@@ -114,6 +117,8 @@ A full stack pet services platform combining adoption listings, service bookings
 | **Features** | Pet Adoption, Service Booking, E-commerce System |
 | **Deployment** | Live demos on Vercel (frontend) & Render (backend) |
 | **Academic Context** | 2nd Year – 2nd Semester Project |
+
+**Repositories:** [Frontend](https://github.com/Central-Pet-Care/Central-Pet-Care-Frontend) · [Backend](https://github.com/Central-Pet-Care/Central-Pet-Care-Backend)
 
 </details>
 
@@ -130,6 +135,8 @@ An internal management system for hospitality operations with real-time booking 
 | **Type** | Internal enterprise-style system |
 | **Academic Context** | 2nd Year – 1st Semester Project |
 
+**Repository:** [Hospital-Management-System](https://github.com/Rashmini-Kavindya/Hospital-Management-System)
+
 </details>
 
 <details>
@@ -143,6 +150,8 @@ A secure identity issuance platform with authentication and role-based access co
 | **Stack** | HTML, CSS, JavaScript, PHP, MySQL |
 | **Security** | Secure authentication, role-based access (Admin/Staff) |
 | **Academic Context** | 1st Year – 2nd Semester Project |
+
+**Repository:** [Identity-Issuing-Service-System](https://github.com/Rashmini-Kavindya/Identity-Issuing-Service-System)
 
 </details>
 
@@ -158,6 +167,8 @@ A native Android habit-tracking app with scheduled reminders for daily routine b
 | **Features** | Daily habit tracker, scheduled reminders via Shared Preferences |
 | **Academic Context** | 2nd Year – 2nd Semester Project |
 
+**Repository:** [HealthyMe](https://github.com/Rashmini-Kavindya/HealthyMe)
+
 </details>
 
 ---
@@ -172,14 +183,28 @@ A native Android habit-tracking app with scheduled reminders for daily routine b
 
 ---
 
+## 🟣 Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/Rashmini-Kavindya/HealthyMe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashmini-Kavindya&repo=HealthyMe&theme=radical&hide_border=true&bg_color=1a0033&title_color=a78bfa&icon_color=8a2be2&text_color=e0d4ff" width="48%"/></a>
+<a href="https://github.com/Rashmini-Kavindya/Hospital-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashmini-Kavindya&repo=Hospital-Management-System&theme=radical&hide_border=true&bg_color=1a0033&title_color=a78bfa&icon_color=8a2be2&text_color=e0d4ff" width="48%"/></a>
+
+<a href="https://github.com/Rashmini-Kavindya/Identity-Issuing-Service-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashmini-Kavindya&repo=Identity-Issuing-Service-System&theme=radical&hide_border=true&bg_color=1a0033&title_color=a78bfa&icon_color=8a2be2&text_color=e0d4ff" width="48%"/></a>
+<a href="https://github.com/Central-Pet-Care/Central-Pet-Care-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Central-Pet-Care&repo=Central-Pet-Care-Frontend&theme=radical&hide_border=true&bg_color=1a0033&title_color=a78bfa&icon_color=8a2be2&text_color=e0d4ff" width="48%"/></a>
+
+</div>
+
+---
+
 ## 🟣 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rashmini-k&show_icons=true&theme=radical&hide_border=true&bg_color=1a0033&title_color=a78bfa&icon_color=8a2be2&text_color=e0d4ff" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=rashmini-k&theme=radical&hide_border=true&background=1a0033&stroke=8a2be2&ring=a78bfa&fire=a78bfa&currStreakLabel=e0d4ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rashmini-Kavindya&show_icons=true&theme=radical&hide_border=true&bg_color=1a0033&title_color=a78bfa&icon_color=8a2be2&text_color=e0d4ff" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Rashmini-Kavindya&theme=radical&hide_border=true&background=1a0033&stroke=8a2be2&ring=a78bfa&fire=a78bfa&currStreakLabel=e0d4ff" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmini-k&layout=compact&theme=radical&hide_border=true&bg_color=1a0033&title_color=a78bfa&text_color=e0d4ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmini-Kavindya&layout=compact&theme=radical&hide_border=true&bg_color=1a0033&title_color=a78bfa&text_color=e0d4ff" width="49%"/>
 
 </div>
 
@@ -189,7 +214,7 @@ A native Android habit-tracking app with scheduled reminders for daily routine b
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rashmini-k&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rashmini-Kavindya&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -199,7 +224,7 @@ A native Android habit-tracking app with scheduled reminders for daily routine b
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rashmini-k&theme=redical&bg_color=1a0033&color=a78bfa&line=8a2be2&point=e0d4ff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashmini-Kavindya&theme=redical&bg_color=1a0033&color=a78bfa&line=8a2be2&point=e0d4ff&hide_border=true" width="100%"/>
 
 </div>
 
@@ -209,7 +234,7 @@ A native Android habit-tracking app with scheduled reminders for daily routine b
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rashmini-k/rashmini-k/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Rashmini-Kavindya/Rashmini-Kavindya/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -243,8 +268,9 @@ open_to:
 
 <a href="mailto:rashminik727@gmail.com"><img src="https://img.shields.io/badge/Gmail-rashminik727%40gmail.com-6a0dad?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0033"/></a>
 <a href="https://www.linkedin.com/in/rashmini-k"><img src="https://img.shields.io/badge/LinkedIn-rashmini--k-4b0082?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033"/></a>
-<a href="https://github.com/rashmini-k"><img src="https://img.shields.io/badge/GitHub-rashmini--k-8a2be2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0033"/></a>
+<a href="https://github.com/Rashmini-Kavindya"><img src="https://img.shields.io/badge/GitHub-Rashmini--Kavindya-8a2be2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0033"/></a>
 <a href="https://rashmini-kavindya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View%20Work-a78bfa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0033"/></a>
+<a href="https://medium.com/@rashminik727"><img src="https://img.shields.io/badge/Medium-Read%20Blog-6a0dad?style=for-the-badge&logo=medium&logoColor=white&labelColor=1a0033"/></a>
 
 </div>
 
